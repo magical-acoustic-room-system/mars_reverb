@@ -26,6 +26,10 @@ Another interesting idea is to hollow out the triangular prism, so that the cavi
 
 Note that the materials labelled here were chosen at random.
 
+Rotation of the panels can be achieved using multiple direct drive stepper motors, or with a single powerful stepper motor and a belt drive.
+
+![Drive train options](./images/drivetrain.png)
+
 ### 2. Pixels
 Above designs only have vertical grooves. Horizontal grooves are necessary too.
 
